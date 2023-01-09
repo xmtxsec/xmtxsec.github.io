@@ -671,9 +671,9 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xmtxsec
+      icon: 
+      text: XMTX’S WiKi
+      link: https://xmtxsec.top/wiki
   card_announcement:
     enable: true
     content: 本博客是由Github.io+Hexo搭建。图床是由Github+PicGo搭建。由于网络问题阅读过程中可能会出现图片加载失败的问题，重新加载即可。
