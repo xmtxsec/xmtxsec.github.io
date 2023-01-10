@@ -635,12 +635,10 @@ subtitle:
   # source: 2  調用一句網（簡體） http://yijuzhan.com/
   # source: 3  調用今日詩詞（簡體） https://www.jinrishici.com/
   # subtitle 會先顯示 source , 再顯示 sub 的內容
-  source: 1
+  source: 3
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - 一束光照进铁塔，铁塔内肮脏龌龊被显现，于是，这束光便有了罪。
-    - 做事，遇事，不要心急，有耐心，多忍，多思后行。
-    - 大胆点生活你没那么多观众。
+    - 劝君莫惜金缕衣，劝君惜取少年时。花开堪折直须折，莫待无花空折枝。
     - 人生碌碌，竟短论长，却不道荣枯有数，得失难量。
 
 # Loading Animation (加載動畫)
