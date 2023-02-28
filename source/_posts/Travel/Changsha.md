@@ -14,6 +14,14 @@ cover: https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/2023022013429
 
 ------
 
+旅行最要紧的就是要在不同的城市感受不一样的烟火气，在吃吃喝喝里领悟人生。而长沙想必是每一个吃货都会来的美食圣地。
+
+湖南的豪迈藏在橘子洲畔北去的湘江里，湖南的动听隐匿在省博千年的古文物里，湖南的深沉藏在岳麓山下的书院里，但湖南味却散落在大街小巷，盛开在芙蓉国的每个角落里，而这一切的集大成者——长沙，正用她美食之都的称号，吸引着像我们一样热爱美食的吃货，又用夜晚的霓虹闪烁，诠释着网红城市的活力，惹得来这里的人流连忘返，满心欢愉。
+
+![IMG_20230225_064042](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG_20230225_064042.jpg)
+
+------
+
 
 
 # 一、攻略
@@ -55,7 +63,11 @@ cover: https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/2023022013429
 - **游玩计划：**
   - `早餐嗦粉`
 
+![IMG_20230225_075354](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG_20230225_075354.jpg)
 
+
+
+![IMG_20230225_075221](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG_20230225_075221.jpg)
 
 
 
@@ -72,22 +84,34 @@ cover: https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/2023022013429
 - **游玩计划：**
   - `隔江与教员石像合影`
 
+![1677574212374](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/1677574212374.jpeg)
 
+![1677574215644](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/1677574215644.jpeg)
+
+![1677574193316](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/1677574193316.jpeg)
 
 
 
 ## 3.3、岳麓山
 
 - **开放时间：**`06:00--23:00`
-
 - **碧沙湖地铁站——岳麓山南大门**
   - `乘坐地铁4号线预计20分钟`
-
 - **预计打卡时长：**`4小时`
 - **游玩计划：**
   - `湖南大学地铁站下车，打卡湖南大学、东方红广场`
   - `岳麓山南大门进入途经岳麓书院、爱晚亭、舍利塔、古麓山寺、观光长廊、古炮台、云麓宫`
   - `山顶索道下山到东大门`
+
+![1677574145212](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/1677574145212.jpeg)
+
+![IMG_20230226_225751](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG_20230226_225751.jpg)
+
+![IMG20230225112414](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG20230225112414.jpg)
+
+![1677574139377](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/1677574139377.jpeg)
+
+![IMG20230225111713](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG20230225111713.jpg)
 
 
 
@@ -99,6 +123,8 @@ cover: https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/2023022013429
 - **预计游玩时长：**`1.5小时`
 - **游玩计划：**`打卡、拍照`
 
+![IMG_20230226_225306](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG_20230226_225306.jpg)
+
 
 
 ## 3.5、坡子街
@@ -107,6 +133,12 @@ cover: https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/2023022013429
   - `步行10分钟`
 - **预计打卡时长：**`1小时`
 - **游玩计划：**`拍照打卡、饮食`
+
+![IMG20230225163141](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG20230225163141.jpg)
+
+![IMG20230225164809](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG20230225164809.jpg)
+
+![IMG20230226143259](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG20230226143259.jpg)
 
 
 
@@ -118,6 +150,10 @@ cover: https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/2023022013429
 - **预计打卡时长：**`1小时`
 - **游玩计划：**`拍照打卡、饮食`
 
+![IMG20230225181426](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG20230225181426.jpg)
+
+![IMG_20230227_095526](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG_20230227_095526.jpg)
+
 
 
 ## 3.7、IFS国金中心
@@ -127,6 +163,10 @@ cover: https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/2023022013429
 
 - **预计游玩时长：**`1小时`
 - **游玩计划：**`拍照打卡`
+
+![IMG20230225173810](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG20230225173810.jpg)
+
+
 
 
 
@@ -154,6 +194,16 @@ cover: https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/2023022013429
 
 - **游玩计划：**
   - `打卡、拍照`
+
+------
+
+![IMG20230226084321](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG20230226084321.jpg)
+
+![IMG_20230226_225038](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/IMG_20230226_225038.jpg)
+
+![1677573997045](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/1677573997045.jpeg)
+
+![1677574074864](https://cdn.jsdelivr.net/gh/xmtxsec/picture/travel/Changsha/1677574074864.jpeg)
 
 ------
 
